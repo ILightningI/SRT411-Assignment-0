@@ -1,11 +1,14 @@
 # SRT411-Assignment-0
 SRT411 Assignment 0
 
+
 ## Synopsis
-Assignment 0 is based on completing exercises from this document A (very) short introduction to R and submitting the code on GitHub. The document is an introduction to R language which consists of explanations, examples, and exercises that will help people without programming experience.
+<p>Assignment 0 is based on completing exercises from this document <a href="https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf">A (very) short introduction to R</a> and submitting the code on GitHub. The document is an introduction to R language which consists of explanations, examples, and exercises that will help people without programming experience.</p>
+
 
 ## Programs/Languages Used
 For this assignment, R language, and R Studio program was used.
+
 
 ## Sources
 <p><a href="https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf">A (very) short introduction to R</a></p>
