@@ -6,7 +6,7 @@ Output: html_document
 ---
 <br>
 <br>
-<b>Github Account:</b> http://www.github.com/ILightningI/
+<b>Github Account:</b> https://github.com/ILightningI/SRT411-Assignment-0
 <br>
 <br>
 
@@ -144,7 +144,7 @@ sd(t$a+t$b+t$c)
 ```
 
 ```
-## [1] 3.980007
+## [1] 3.408138
 ```
 
 <hr>
