@@ -11,6 +11,7 @@ Output: html_document
 <br>
 
 <hr>
+### Synopsis
 <p>Assignment 0 is based on completing exercises from this document <a href="https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf">A (very) short introduction to R</a> and submitting the code on GitHub. The document is an introduction to R language which consists of explanations, examples, and exercises that will help people without programming experience.</p>
 <hr>
 
@@ -146,7 +147,7 @@ sd(t$a+t$b+t$c)
 ```
 
 ```
-## [1] 3.290557
+## [1] 3.739482
 ```
 
 <hr>
@@ -341,6 +342,7 @@ a (arg1 = -5, arg2 = 95)
 <br>
 
 #### Sources
+<p><a href="https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf">A (very) short introduction to R</a></p>
 <p><a href="http://rmarkdown.rstudio.com/">R Markdown</a></p>
 <p><a href="http://nicercode.github.io/guides/reports/">Writing Reports in R with Markdown, Knitr and Pandoc</a></p>
 <p><a href="http://kbroman.org/knitr_knutshell/pages/markdown.html">Knitr in a Nutshell</a></p>
