@@ -144,7 +144,7 @@ sd(t$a+t$b+t$c)
 ```
 
 ```
-## [1] 3.859536
+## [1] 3.763892
 ```
 
 <hr>
@@ -339,7 +339,7 @@ a (arg1 = -5, arg2 = 95)
 <br>
 
 #### Sources
-<p><a href="http://rmarkdown.rstudio.com/>R Markdown</a></p>
+<p><a href="http://rmarkdown.rstudio.com/">R Markdown</a></p>
 <p>Writing Reports in R with Markdown, Knitr and Pandoc: http://nicercode.github.io/guides/reports/</p>
 <p>Knitr in a Nutshell: http://kbroman.org/knitr_knutshell/pages/markdown.html</p>
 <p>R Markdown with Knitr: http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html</p>
