@@ -1,8 +1,8 @@
 ---
-title: "SRT411 Assignment 0"
-author: "Mersha Refai"
-date: "January 28, 2016"
-output: html_document
+Title: "SRT411 Assignment 0"
+Author: "Mersha Refai"
+Date: "January 28, 2016"
+Output: html_document
 ---
 <br>
 <br>
@@ -10,7 +10,7 @@ output: html_document
 <br>
 <br>
 
-<p>Assignment 0 is based on completing exercises from this document [A (very)short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf) and submitting the code on GitHub. The document is an introduction to R language which consists of explanations, examples, and exercises that will help people without programming experience.</p>
+<p>Assignment 0 is based on completing exercises from this document "A (very) short introduction to R" https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf and submitting the code on GitHub. The document is an introduction to R language which consists of explanations, examples, and exercises that will help people without programming experience.</p>
 
 <br>
 <br>
@@ -144,7 +144,7 @@ sd(t$a+t$b+t$c)
 ```
 
 ```
-## [1] 3.559203
+## [1] 3.786757
 ```
 
 <hr>
@@ -340,8 +340,8 @@ a (arg1 = -5, arg2 = 95)
 
 #### Sources
 
-<p>[R Markdown](http://rmarkdown.rstudio.com/)</p>
-<p>[Writing Reports in R with Markdown, Knitr and Pandoc](http://nicercode.github.io/guides/reports/)</p>
-<p>[Knitr in a Nutshell](http://kbroman.org/knitr_knutshell/pages/markdown.html)</p>
-<p>[R Markdown with Knitr](http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)</p>
-<p>[R Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)</p>
+<p>R Markdown: http://rmarkdown.rstudio.com/</p>
+<p>Writing Reports in R with Markdown, Knitr and Pandoc: http://nicercode.github.io/guides/reports/</p>
+<p>Knitr in a Nutshell: http://kbroman.org/knitr_knutshell/pages/markdown.html</p>
+<p>R Markdown with Knitr: http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html</p>
+<p>R Markdown Cheatsheet: https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf</p>
