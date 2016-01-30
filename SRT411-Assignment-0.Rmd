@@ -6,7 +6,7 @@ Output: html_document
 ---
 <br>
 <br>
-<b>Github Account:</b> http://www.github.com/mershar/
+<b>Github Account:</b> http://www.github.com/ILightningI/
 <br>
 <br>
 
