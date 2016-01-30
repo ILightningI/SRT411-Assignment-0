@@ -6,11 +6,13 @@ Output: html_document
 ---
 <br>
 <br>
-<b>Github Account:</b> https://github.com/ILightningI/SRT411-Assignment-0
+<b>Github Account Username:</b> ILightningI
 <br>
 <br>
 
+<hr>
 <p>Assignment 0 is based on completing exercises from this document <a href="https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf">A (very) short introduction to R</a> and submitting the code on GitHub. The document is an introduction to R language which consists of explanations, examples, and exercises that will help people without programming experience.</p>
+<hr>
 
 <br>
 <br>
